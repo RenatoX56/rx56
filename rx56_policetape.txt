@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"Fix on spawn"}
+{"version":"1.0.0","news":"New"}
