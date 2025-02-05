@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"New"}
+{"version":"1.0.1","news":"Added TriggerServerEvent('rx56_perm:register', plate, coords, model)"}
