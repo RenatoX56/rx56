@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Added the addConfig(vehicle) function in config.lua to apply configurations to new persistent vehicles."}
+{"version":"1.0.3","news":"➤ TriggerServerEvent('rx56_perm:register', NetId) The new way to create persistent vehicles only with the NetId of the cars. ➤ /reload command Command avaiable for ESX and QBCORE. ➤ RX56 PERSISTENT VEHICLES DOCUMENTATION Added examples to implement more easier."}
