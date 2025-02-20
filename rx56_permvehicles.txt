@@ -1,1 +1,1 @@
-{"version":"1.0.4","news":"➤ TriggerServerEvent('rx56_permvehicles:de_spawn', plate) The way to un-persist a vehicle but without removing it from the persistent vehicles (it can be used for garage scripts, impound, etc) ➤  TriggerServerEvent('rx56_permvehicles:spawn', plate, x, y, z, h) Re-Spawn a persistent vehicle (it can be used for garage scripts, impound, etc)"}
+{"version":"1.0.5","news":"Small fix"}
