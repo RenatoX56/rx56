@@ -1,1 +1,1 @@
-{"version":"1.0.6","news":":**DELETED:** ➤ Config of Config.CommandsPersist. **FIX:** ➤ Fix for the TriggerServerEvent('rx56_permvehicles:de_spawn', plate) and TriggerServerEvent('rx56_permvehicles:spawn', plate, x, y, z, h) **NEW:**  ➤ For delete vehicles on the table TriggerServerEvent('rx56_permvehicles:delete', plate) "}
+{"version":"1.0.7","news":"**FIX:** ➤ Lowered times of checking updates. **NEW:** ➤ Added new config for fuel on config.lua "}
