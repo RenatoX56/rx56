@@ -1,1 +1,1 @@
-{"version":"1.0.7","news":"**FIX:** ➤ Lowered times of checking updates. **NEW:** ➤ Added new config for fuel on config.lua "}
+{"version":"1.0.8","news":" **NEW:** ➤ Command /register to register the vehicle when a player is inside one"}
