@@ -1,1 +1,1 @@
-{"version":"1.0.8","news":" **NEW:** ➤ Command /register to register the vehicle when a player is inside one"}
+{"version":"1.1.1","news":" **FIX:** ➤ Lowered bytes of data sent to client. **NEW:**➤ New command for standlone usage to delete persist vehicles /dvp [plate] or if ur inside a persistent vehicle u can use only /dvp. ➤ New config for the commands u can edit them on config.lua. **REMOVED:** ➤ Command /reload."}
