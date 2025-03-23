@@ -1,1 +1,1 @@
-{"version":"1.1.1","news":" **FIX:** ➤ Lowered bytes of data sent to client. **NEW:**➤ New command for standlone usage to delete persist vehicles /dvp [plate] or if ur inside a persistent vehicle u can use only /dvp. ➤ New config for the commands u can edit them on config.lua. **REMOVED:** ➤ Command /reload."}
+{"version":"1.1.2","news":" **FIX:** ➤ Fixed on the load issue according to the distance check on new players drop. ➤ Fixed on the load of modifications on the trigger TriggerServerEvent('rx56_permvehicles:spawn', plate, x, y, z, h)."}
