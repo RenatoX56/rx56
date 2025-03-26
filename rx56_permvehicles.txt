@@ -1,1 +1,1 @@
-{"version":"1.1.2","news":" **FIX:** ➤ Fixed on the load issue according to the distance check on new players drop. ➤ Fixed on the load of modifications on the trigger TriggerServerEvent('rx56_permvehicles:spawn', plate, x, y, z, h)."}
+{"version":"1.2","news":"**NEW FEATURES & FIXES:** ➤ Added support for towing persistent vehicles and saving their new positions. ➤ Introduced TimeToDeSpawn system for automatic despawn after inactivity. ➤ Fixed minor issues for better system stability. ➤ Updated database with a new column for last_updated timestamp."}
