@@ -1,1 +1,1 @@
-{"version":"1.2","news":"**NEW FEATURES & FIXES:** ➤ Added support for towing persistent vehicles and saving their new positions. ➤ Introduced TimeToDeSpawn system for automatic despawn after inactivity. ➤ Fixed minor issues for better system stability. ➤ Updated database with a new column for last_updated timestamp."}
+{"version":"1.2.1","news":"Minor fixes and new config"}
