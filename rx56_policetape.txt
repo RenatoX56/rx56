@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Fixed standlone issue"}
+{"version":"1.1","news":"➤ Fix on persist mode.➤ Now Persist tapes works on all frameworks.➤ **Now the script DOESN'T REQUIERE ox_lib.**"}
