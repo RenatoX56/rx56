@@ -1,1 +1,1 @@
-{"version":"1.2.2","news": ➤ Fixed [script:rx56_permvehi] SCRIPT ERROR: ? attempt to index a nil value (was a problem abt cheking version) ➤ The people who have problem loading the modifications please put Config.test = true on the config file and send a feedback abt this function. ➤ Minor fixes. ADD: ➤ Added a README to redirect to the documentation and the sql drop."}
+{"version":"1.2.3","news": Major update."}
