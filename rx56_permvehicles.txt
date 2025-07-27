@@ -1,1 +1,1 @@
-{"version":"2.1","news":"➤ Fix on vehicle modification loading (only loads near players).➤ Smoother vehicle loading.➤ Added export GetVehPos(plate).➤ New config option: SQLTableName.➤ Minor fixes."}
+{"version":"2.2","news":"➤ Fix on fxmanifes.lua ."}
