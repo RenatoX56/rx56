@@ -1,1 +1,1 @@
-{"version":"2.2","news":"➤ Fix on fxmanifes.lua ."}
+{"version":"2.4","news":"➤ Update with SQL problems."}
