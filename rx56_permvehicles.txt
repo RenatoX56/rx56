@@ -1,1 +1,1 @@
-{"version":"2.4","news":"➤ Update with SQL problems."}
+{"version":"2.5","news":"➤ Correction on the with plate register command."}
