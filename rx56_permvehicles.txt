@@ -1,1 +1,1 @@
-{"version":"2.5","news":"➤ Correction on the with plate register command."}
+{"version": "2.6", "news": "➤ Fixed an issue that was causing vehicles to fall through the map on custom MLOs and mapped areas."}
