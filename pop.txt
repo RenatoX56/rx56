@@ -1,1 +1,11 @@
-{"link":#","news":"¡Gran actualización de inicio! No te lo pierdas."}
+[
+  {
+    "news": "¡Gran actualización de vehículos! Ya están disponibles los nuevos modelos en el concesionario."
+  },
+  {
+    "news": "Evento de doble experiencia este fin de semana. ¡No te lo pierdas!"
+  },
+  {
+    "news": "Se buscan nuevos miembros para el cuerpo de policía. Postulaciones abiertas en nuestro Discord."
+  }
+]
