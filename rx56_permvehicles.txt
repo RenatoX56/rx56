@@ -1,4 +1,4 @@
 {
-  "version": "3.1",
-  "news": "➤ Fixed an issue that was causing vehicles to fall through the map on custom MLOs and mapped areas.\n➤ Improved the vehicle modification loading logic to only check within a 400-unit radius of players, which helps reduce loading issues and provides a smoother experience.\n➤ Added a new configurable option called 'AutomaticSave', which, when enabled, will completely delete vehicles from the database if they are despawned by an external script or naturally by the game. If disabled, vehicles will be automatically recreated.\n➤ Introduced new 'AutomaticSave' sub-options to manage saving based on vehicle ownership ('AutomaticSave_owned'). You can now specify the exact database table and column to check for a vehicle's plate ('AutomaticSave_owned_sql', 'AutomaticSave_owned_sql_column').\n➤ Added a new export, `exports['rx56_permvehicles']:GetVehPos(plate)`, which allows you to get a vehicle's position by its plate, making it easier to integrate with other scripts.\n➤ Included minor bug fixes and general optimizations for better overall performance."
+  "version": "3.5",
+  "news": "➤ Big changes, please update. "
 }
