@@ -1,4 +1,4 @@
 {
-  "version": "3.5",
-  "news": "➤ Big changes, please update. "
+  "version": "3.6",
+  "news": "➤ Critical fixes for vehicle duplication, precise position saving on exit, and key synchronization. Update highly recommended."
 }
